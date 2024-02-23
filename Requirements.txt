@@ -1,0 +1,6 @@
+ipykernal
+pandas
+scikit-learn
+numpy
+
+
