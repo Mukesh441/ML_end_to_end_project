@@ -16,3 +16,6 @@ Solution-- I have opened the Anaconda and launched the vscode from there)
 
 Firstly  the template.py file from the bash using python template.py  the very first step to create all the file structure
 later you can fill the other fields
+
+run python setup.py install  for making our src\diamondpriceprediction as a local package
+check this using the pip list :-- Now I do see the src\diamondpriceprediction as a local package
