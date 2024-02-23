@@ -11,3 +11,8 @@ create a Requirement.txt file as well to run PIP install process
 (Issue I have encountered is that the Conda is not found in the Bash file
 Solution-- I have opened the Anaconda and launched the vscode from there) 
 ##
+--------------------------------------Above Process  or go with the below process
+
+
+Firstly  the template.py file from the bash using python template.py  the very first step to create all the file structure
+later you can fill the other fields
