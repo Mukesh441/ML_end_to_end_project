@@ -1,6 +1,8 @@
 import os
 from pathlib import Path
 
+#Few comments to test git
+
 package_name="DiamondPricePrediction"
 
 list_of_files=[
